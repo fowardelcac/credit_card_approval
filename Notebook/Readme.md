@@ -18,6 +18,4 @@ FLAG_PHONE	Is there a phone
 FLAG_EMAIL	Is there an email	
 OCCUPATION_TYPE	Occupation	
 CNT_FAM_MEMBERS	Family size	
-credit_record.csv		
-Feature name	Explanation	Remarks
-ID	Client number
+
